@@ -42,6 +42,7 @@
    <p><b>보안 강화</b></p> 
    <p>클라우드 서버에서 모든 게임 데이터를 관리함으로써 보안을 강화하고 있다.</p> 
    <img src="https://blog.8percent.kr/wp-content/uploads/2023/06/%EC%A0%95%EB%B3%B4%EB%B3%B4%ED%98%B8-%EC%BD%98%ED%85%90%EC%B8%A0-%EC%8D%B8%EB%84%A4%EC%9D%BC-1220x600.webp" alt="아무 사진" style="width:345px; height:225px;"> 
+   <p> 이처럼 클라우드 게이밍은 사회에 많은 영향을 끼치고 있다. </p> 
     <p> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br><small>자료 출처: sk 하이닉스, 하프 라이프, 스팀, 온리브, 네이트뷰, 소니, 마이크로소프트, 닌텐도, NC소프트, EA, 호요버스, 넥슨, Sensor Tower, 넷마블, 37게임즈, Hungry Studio, 하비, 매드엔진, 위메이드, 엑스엘게임즈, 카카오 게임즈, Datablaze, 클래스팅, 에잇포스트 - 8퍼센트, 구글, 나무위키, 네이버, 플레이 스토어</small></p>
   </div> 
  </body>
